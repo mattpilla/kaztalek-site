@@ -1,0 +1,7 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "colors";
+
+body {
+  background-color: $body-color;
+  color: $text-color;
+}
