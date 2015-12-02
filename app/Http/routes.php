@@ -13,6 +13,6 @@
 
 Route::get('/', ['uses' => 'SplashController@index']);
 
-Route::group(['namespace' => 'mm', 'prefix' => 'mm'], function () {
+Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function () {
     Route::get('/item-list', ['uses' => 'ItemListController@index']);
 });

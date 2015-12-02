@@ -8335,3 +8335,7 @@ body {
   background-color: #200829;
   color: #ddd;
 }
+
+th {
+  color: #fff;
+}
