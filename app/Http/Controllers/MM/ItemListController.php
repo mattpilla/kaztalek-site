@@ -16,6 +16,6 @@ class ItemListController extends Controller
      */
     public function index()
     {
-        return view('app.mm.item-list');
+        return view('app.mm.itemlist');
     }
 }

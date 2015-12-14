@@ -14,5 +14,9 @@
 Route::get('/', ['uses' => 'SplashController@index']);
 
 Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function () {
-    Route::get('/item-list', ['uses' => 'ItemListController@index']);
+    Route::get('/itemlist', ['uses' => 'ItemListController@index']);
+});
+
+Route::get('/1pause', function() {
+    return 'No.';
 });
