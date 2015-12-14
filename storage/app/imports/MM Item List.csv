@@ -1,0 +1,512 @@
+0,images/item-icons/Ocarina of Time.png,Ocarina of Time,,TRUE
+1,images/item-icons/Hero's Bow.png,Hero's Bow,,TRUE
+2,images/item-icons/Fire Arrow.png,Fire Arrow,,TRUE
+3,images/item-icons/Ice Arrow.png,Ice Arrow,,TRUE
+4,images/item-icons/Light Arrow.png,Light Arrow,,TRUE
+5,images/item-icons/Fairy Ocarina (Unused).png,JP Text: Fairy's Ocarina,Acts like Pictobox,TRUE
+6,images/item-icons/Bomb.png,Bomb,,TRUE
+7,images/item-icons/Bombchu.png,Bombchu,,TRUE
+8,images/item-icons/Deku Stick.png,Deku Stick,,TRUE
+9,images/item-icons/Deku Nut.png,Deku Nut,,TRUE
+10,images/item-icons/Magic Beans.png,Magic Beans,,TRUE
+11,images/item-icons/Fairy Slingshot (Unused).png,JP Text: Longshot,Acts like Pictobox,TRUE
+12,images/item-icons/Powder Keg.png,Powder Keg,,TRUE
+13,images/item-icons/Pictograph Box.png,Pictograph Box,,TRUE
+14,images/item-icons/Lens of Truth.png,Lens of Truth,,TRUE
+15,images/item-icons/Hookshot.png,Hookshot,,TRUE
+16,images/item-icons/Great Fairy's Sword.png,Great Fairy's Sword,,TRUE
+17,images/item-icons/Hookshot (Unused).png,JP Text: Fairy's Slingshot,Acts like Pictobox,TRUE
+18,images/item-icons/Empty Bottle.png,Empty Bottle,,TRUE
+19,images/item-icons/Red Potion.png,Red Potion,,TRUE
+20,images/item-icons/Green Potion.png,Green Potion,,TRUE
+21,images/item-icons/Blue Potion.png,Blue Potion,,TRUE
+22,images/item-icons/Fairy.png,Fairy,,TRUE
+23,images/item-icons/Deku Princess.png,Deku Princess,,TRUE
+24,images/item-icons/Milk.png,Milk,,TRUE
+25,images/item-icons/Half Milk.png,Milk (1/2),,TRUE
+26,images/item-icons/Fish.png,Fish,,TRUE
+27,images/item-icons/Bug.png,Bug,,TRUE
+28,images/item-icons/Blue Fire.png,Blue Fire,Acts like Bug,TRUE
+29,images/item-icons/Poe.png,Poe,,TRUE
+30,images/item-icons/Big Poe.png,Big Poe,,TRUE
+31,images/item-icons/Spring Water.png,Spring Water,,TRUE
+32,images/item-icons/Hot Spring Water.png,Hot Spring Water,,TRUE
+33,images/item-icons/Zora Egg.png,Zora Egg,,TRUE
+34,images/item-icons/Gold Dust.png,Gold Dust,,TRUE
+35,images/item-icons/Magical Mushroom.png,Magical Mushroom,,TRUE
+36,images/item-icons/Sea Horse.png,Sea Horse,,TRUE
+37,images/item-icons/Chateau Romani.png,Chateau Romani,,TRUE
+38,images/item-icons/Ocarina of Time.png,JP Text: Hylian Loach,"""This item doesn't seem to work here...""",TRUE
+39,images/item-icons/Ocarina of Time.png,JP Text: Obaba's Drink,Acts like Poe,TRUE
+40,images/item-icons/Ocarina of Time.png,Moon's Tear,,TRUE
+41,images/item-icons/Ocarina of Time.png,Land Title Deed,,TRUE
+42,images/item-icons/Ocarina of Time.png,Swamp Title Deed,,TRUE
+43,images/item-icons/Ocarina of Time.png,Mountain Title Deed,,TRUE
+44,images/item-icons/Ocarina of Time.png,Ocean Title Deed,,TRUE
+45,images/item-icons/Ocarina of Time.png,Room Key,,TRUE
+46,images/item-icons/Ocarina of Time.png,Special Delivery to Mama,,TRUE
+47,images/item-icons/Ocarina of Time.png,Letter to Kafei,,TRUE
+48,images/item-icons/Ocarina of Time.png,Pendant of Memories,,TRUE
+49,images/item-icons/Ocarina of Time.png,JP Text: Moon's Stone,Acts like Pendant of Memories,TRUE
+50,images/item-icons/Ocarina of Time.png,Deku Mask,,TRUE
+51,images/item-icons/Ocarina of Time.png,Goron Mask,,TRUE
+52,images/item-icons/Ocarina of Time.png,Zora Mask,,TRUE
+53,images/item-icons/Ocarina of Time.png,Fierce Deity's Mask,,TRUE
+54,images/item-icons/Ocarina of Time.png,Mask of Truth,,TRUE
+55,images/item-icons/Ocarina of Time.png,Kafei's Mask,,TRUE
+56,images/item-icons/Ocarina of Time.png,All-Night Mask,,TRUE
+57,images/item-icons/Ocarina of Time.png,Bunny Hood,,TRUE
+58,images/item-icons/Keaton Mask.png,Keaton Mask,,TRUE
+59,images/item-icons/Ocarina of Time.png,Garo's Mask,,TRUE
+60,images/item-icons/Ocarina of Time.png,Romani's Mask,,TRUE
+61,images/item-icons/Ocarina of Time.png,Circus Leader's Mask,,TRUE
+62,images/item-icons/Ocarina of Time.png,Postman's Hat,,TRUE
+63,images/item-icons/Ocarina of Time.png,Couple's Mask,,TRUE
+64,images/item-icons/Ocarina of Time.png,Great Fairy's Mask,,TRUE
+65,images/item-icons/Ocarina of Time.png,Gibdo's Mask,,TRUE
+66,images/item-icons/Ocarina of Time.png,Don Gero's Mask,,TRUE
+67,images/item-icons/Ocarina of Time.png,Kamaro's Mask,,TRUE
+68,images/item-icons/Ocarina of Time.png,Captain's Hat,,TRUE
+69,images/item-icons/Ocarina of Time.png,Stone Mask,,TRUE
+70,images/item-icons/Ocarina of Time.png,Bremen Mask,,TRUE
+71,images/item-icons/Ocarina of Time.png,Blast Mask,,TRUE
+72,images/item-icons/Ocarina of Time.png,Mask of Scents,,TRUE
+73,images/item-icons/Ocarina of Time.png,Giant's Mask,,TRUE
+74,images/item-icons/Ocarina of Time.png,JP Text: Wind Medallion,Acts like Fire Arrow,TRUE
+75,images/item-icons/Ocarina of Time.png,JP Text: Fire Medallion,Acts like Ice Arrow,TRUE
+76,images/item-icons/Ocarina of Time.png,JP Text: Ice Medallion,Acts like Light Arrow,TRUE
+77,images/item-icons/Ocarina of Time.png,Kokiri Sword,Grayed out on C; Acts like Kokiri Sword,TRUE
+78,images/item-icons/Ocarina of Time.png,Razor Sword,Grayed out on C; Acts like Razor Sword,TRUE
+79,images/item-icons/Ocarina of Time.png,Gilded Sword,Grayed out on C; Acts like Gilded Sword,TRUE
+80,images/item-icons/Ocarina of Time.png,JP Text: Broken Giant's Knife,Grayed out on C; Acts like Great Fairy's Sword/Double Helix Sword,TRUE
+81,images/item-icons/Ocarina of Time.png,Hero's Shield,Grayed out on C; Forces Link to put away item,TRUE
+82,images/item-icons/Ocarina of Time.png,Mirror Shield,Grayed out on C; Forces Link to put away item,TRUE
+83,images/item-icons/Ocarina of Time.png,Quiver [30],Grayed out on C; Forces Link to put away item,TRUE
+84,images/item-icons/Ocarina of Time.png,Quiver [40],Grayed out on C; Crashes,TRUE
+85,images/item-icons/Ocarina of Time.png,Quiver [50],Grayed out on C; Crashes,TRUE
+86,images/item-icons/Ocarina of Time.png,Bomb Bag [20],Grayed out on C; Crashes,TRUE
+87,images/item-icons/Ocarina of Time.png,Bomb Bag [30],Grayed out on C; Acts like Bombchu,TRUE
+88,images/item-icons/Ocarina of Time.png,Bomb Bag [40],Grayed out on C; Crashes,TRUE
+89,images/item-icons/Ocarina of Time.png,JP Text: Boss Key,Grayed out on C; Crashes,TRUE
+90,images/item-icons/Ocarina of Time.png,JP Text: Boss Key,Grayed out on C; Crashes,TRUE
+91,images/item-icons/Ocarina of Time.png,JP Text: Boss Key,Grayed out on C; Acts like Bombchu,TRUE
+92,images/item-icons/Ocarina of Time.png,JP Text: Boss Key,Grayed out on C; Link holds invisible Fishing Rod,TRUE
+93,images/item-icons/Ocarina of Time.png,Odolwa's Remains,Grayed out on C; Crashes,TRUE
+94,images/item-icons/Ocarina of Time.png,Goht's Remains,Grayed out on C; Crashes,TRUE
+95,images/item-icons/Ocarina of Time.png,Gyorg's Remains,Grayed out on C; Acts like Bombchu,TRUE
+96,images/item-icons/Ocarina of Time.png,Twinmold's Remains,Grayed out on C; Crashes,TRUE
+97,,Sonata of Awakening,Grayed out on C; Crashes,TRUE
+98,,Goron Lullaby,Grayed out on C; Crashes,TRUE
+99,,New Wave Bossa Nova,Grayed out on C; Acts like Captain's Hat,TRUE
+100,,Elegy of Emptiness,Grayed out on C; Crashes,TRUE
+101,,Oath to Order,Grayed out on C; Crashes,TRUE
+102,,JP Text: Nocturne of Shadow,Grayed out on C; Crashes,TRUE
+103,,Song of Time,Grayed out on C; Acts like Captain's Hat,TRUE
+104,,Song of Healing,Grayed out on C; Crashes,TRUE
+105,,Epona's Song,Grayed out on C; Crashes,TRUE
+106,,Song of Soaring,Grayed out on C; Crashes,TRUE
+107,,Song of Storms,Grayed out on C; Acts like Captain's Hat,TRUE
+108,,JP Text: Sun's Song,Grayed out on C; Crashes,TRUE
+109,images/item-icons/Ocarina of Time.png,Bomber's Notebook,Grayed out on C; Crashes,TRUE
+110,,JP Text: Gold Skulltula,Grayed out on C; Crashes,TRUE
+111,,Piece of Heart,Grayed out on C; Acts like Captain's Hat,TRUE
+112,,JP Text: Piece of Heart,Grayed out on C; Crashes,TRUE
+113,,JP Text: Sun's Song,Grayed out on C; Crashes,TRUE
+114,,JP Text: Song of Time,Grayed out on C; Crashes,TRUE
+115,,Lullaby Intro,Grayed out on C; Acts like Bombchu,TRUE
+116,,Big Key,Grayed out on C; Crashes,TRUE
+117,,Compass,Grayed out on C; Crashes,TRUE
+118,,Dungeon Map,Grayed out on C; Crashes,TRUE
+119,,Stray Fairies,Grayed out on C; Acts like Bombchu,TRUE
+120,,Unreadable Fuzz,Crashes,TRUE
+121,,Unreadable Fuzz,Crashes,TRUE
+122,,Unreadable Fuzz,Crashes,TRUE
+123,,Unreadable Fuzz,Crashes,TRUE
+124,,Unreadable Fuzz,Crashes,TRUE
+125,,Unreadable Fuzz,Crashes,TRUE
+126,,Unreadable Fuzz,Crashes,TRUE
+127,,Unreadable Fuzz,Crashes,TRUE
+128,,Unreadable Fuzz,Crashes,TRUE
+129,,Unreadable Fuzz,Crashes,TRUE
+130,,Unreadable Fuzz,Crashes,TRUE
+131,,Unreadable Fuzz,Crashes,TRUE
+132,,Unreadable Fuzz,Crashes,TRUE
+133,,Unreadable Fuzz,Crashes,TRUE
+134,,Unreadable Fuzz,Crashes,TRUE
+135,,Unreadable Fuzz,Crashes,TRUE
+136,,Unreadable Fuzz,Crashes,TRUE
+137,,Unreadable Fuzz,Crashes,TRUE
+138,,Unreadable Fuzz,Crashes,TRUE
+139,,Unreadable Fuzz,Crashes,TRUE
+140,,Unreadable Fuzz,Crashes,TRUE
+141,,Unreadable Fuzz,Crashes,TRUE
+142,,Unreadable Fuzz,Crashes,TRUE
+143,,Unreadable Fuzz,Acts like Great Fairy's Mask,TRUE
+144,,Unreadable Fuzz,Crashes,TRUE
+145,,Unreadable Fuzz,Crashes,TRUE
+146,,Unreadable Fuzz,Crashes,TRUE
+147,,Unreadable Fuzz,Acts like Great Fairy's Mask,TRUE
+148,,Unreadable Fuzz,Crashes,TRUE
+149,,Unreadable Fuzz,Crashes,TRUE
+150,,Unreadable Fuzz,Crashes,TRUE
+151,,Unreadable Fuzz,Acts like Great Fairy's Mask,TRUE
+152,,Unreadable Fuzz,Crashes,TRUE
+153,,Unreadable Fuzz,Crashes,TRUE
+154,,Unreadable Fuzz,Crashes,TRUE
+155,,Unreadable Fuzz,Acts like Great Fairy's Mask,TRUE
+156,,Unreadable Fuzz,Crashes,TRUE
+157,,Unreadable Fuzz,Crashes,TRUE
+158,,Unreadable Fuzz,Crashes,TRUE
+159,,Unreadable Fuzz,Crashes,TRUE
+160,,Unreadable Fuzz,Crashes,TRUE
+161,,Unreadable Fuzz,Crashes,TRUE
+162,,Unreadable Fuzz,Crashes,TRUE
+163,,Unreadable Fuzz,Acts like Bombchu,TRUE
+164,,Unreadable Fuzz,Crashes,TRUE
+165,,Unreadable Fuzz,Crashes,TRUE
+166,,Unreadable Fuzz,Crashes,TRUE
+167,,Unreadable Fuzz,Acts like Bombchu,TRUE
+168,,Unreadable Fuzz,Crashes,TRUE
+169,,Unreadable Fuzz,Crashes,TRUE
+170,,Unreadable Fuzz,Crashes,TRUE
+171,,Unreadable Fuzz,Acts like Bombchu,TRUE
+172,,Unreadable Fuzz,Crashes,TRUE
+173,,Unreadable Fuzz,Crashes,TRUE
+174,,Unreadable Fuzz,Crashes,TRUE
+175,,Unreadable Fuzz,Acts like Bombchu,TRUE
+176,,Unreadable Fuzz,Crashes,TRUE
+177,,Unreadable Fuzz,Crashes,TRUE
+178,,Unreadable Fuzz,Crashes,TRUE
+179,,Unreadable Fuzz,Acts like Bombchu,TRUE
+180,,Unreadable Fuzz,Crashes,TRUE
+181,,Unreadable Fuzz,Crashes,TRUE
+182,,Unreadable Fuzz,Crashes,TRUE
+183,,Unreadable Fuzz,Acts like Bombchu,TRUE
+184,,Unreadable Fuzz,Crashes,TRUE
+185,,Unreadable Fuzz,Crashes,TRUE
+186,,Unreadable Fuzz,Crashes,TRUE
+187,,Unreadable Fuzz,Acts like Bombchu,TRUE
+188,,Unreadable Fuzz,Crashes,TRUE
+189,,Unreadable Fuzz,Crashes,TRUE
+190,,Unreadable Fuzz,Crashes,TRUE
+191,,Unreadable Fuzz,Acts like Bombchu,TRUE
+192,,Unreadable Fuzz,Crashes,TRUE
+193,,Unreadable Fuzz,Crashes,TRUE
+194,,Unreadable Fuzz,Crashes,TRUE
+195,,Unreadable Fuzz,Acts like Bombchu,TRUE
+196,,Unreadable Fuzz,Crashes,TRUE
+197,,Unreadable Fuzz,Crashes,TRUE
+198,,Unreadable Fuzz,Crashes,TRUE
+199,,Unreadable Fuzz,Acts like Bombchu,TRUE
+200,,Unreadable Fuzz,Crashes,TRUE
+201,,Unreadable Fuzz,Crashes,TRUE
+202,,Unreadable Fuzz,Crashes,TRUE
+203,,Unreadable Fuzz,Acts like Bombchu,TRUE
+204,,Unreadable Fuzz,Crashes,TRUE
+205,,Unreadable Fuzz,Crashes,TRUE
+206,,Unreadable Fuzz,Crashes,TRUE
+207,,Unreadable Fuzz,Acts like Bombchu,TRUE
+208,,Unreadable Fuzz,Crashes,TRUE
+209,,Unreadable Fuzz,Crashes,TRUE
+210,,Unreadable Fuzz,Crashes,TRUE
+211,,Unreadable Fuzz,Acts like Bombchu,TRUE
+212,,Unreadable Fuzz,Crashes,TRUE
+213,,Unreadable Fuzz,Crashes,TRUE
+214,,Unreadable Fuzz,Crashes,TRUE
+215,,Unreadable Fuzz,Acts like Bombchu,TRUE
+216,,Unreadable Fuzz,Crashes,TRUE
+217,,Unreadable Fuzz,Crashes,TRUE
+218,,Unreadable Fuzz,Crashes,TRUE
+219,,Unreadable Fuzz,Acts like Bombchu,TRUE
+220,,Unreadable Fuzz,Crashes,TRUE
+221,,Unreadable Fuzz,Crashes,TRUE
+222,,Unreadable Fuzz,Crashes,TRUE
+223,,Unreadable Fuzz,Acts like Bombchu,TRUE
+224,,Unreadable Fuzz,Crashes,TRUE
+225,,Unreadable Fuzz,Crashes,TRUE
+226,,Unreadable Fuzz,Crashes,TRUE
+227,,Unreadable Fuzz,Acts like Bombchu,TRUE
+228,,Unreadable Fuzz,Crashes,TRUE
+229,,Unreadable Fuzz,Crashes,TRUE
+230,,Unreadable Fuzz,Crashes,TRUE
+231,,Unreadable Fuzz,Acts like Bombchu,TRUE
+232,,Unreadable Fuzz,Crashes,TRUE
+233,,Unreadable Fuzz,Crashes,TRUE
+234,,Unreadable Fuzz,Crashes,TRUE
+235,,Unreadable Fuzz,Acts like Bombchu,TRUE
+236,,Unreadable Fuzz,Crashes,TRUE
+237,,Unreadable Fuzz,Crashes,TRUE
+238,,Unreadable Fuzz,Crashes,TRUE
+239,,Unreadable Fuzz,Acts like Bombchu,TRUE
+240,,Unreadable Fuzz,"Acts like ""Explode""",TRUE
+241,,Unreadable Fuzz,"Acts like ""March"" for 1-2 frames",TRUE
+242,,Unreadable Fuzz,"Acts like ""Dance"" for 1-2 frames",TRUE
+243,,Unreadable Fuzz,Acts like Bombchu,TRUE
+244,,Unreadable Fuzz,Crashes,TRUE
+245,,Unreadable Fuzz,Crashes,TRUE
+246,,Unreadable Fuzz,Crashes,TRUE
+247,,Unreadable Fuzz,Acts like Bombchu,TRUE
+248,,Unreadable Fuzz,Crashes,TRUE
+249,,Unreadable Fuzz,Crashes,TRUE
+250,,Unreadable Fuzz,Crashes,TRUE
+251,,Unreadable Fuzz,Acts like Bombchu,TRUE
+252,,Unreadable Fuzz,Forces Link to draw only his sword,TRUE
+253,,Unreadable Fuzz,Acts like nothing,TRUE
+254,,Unreadable Fuzz,Acts like nothing,TRUE
+255,,Empty Slot,Makes a button or item slot entirely empty,TRUE
+0,,Ocarina of Time,,FALSE
+1,,Hero's Bow,,FALSE
+2,,Fire Arrow,,FALSE
+3,,Ice Arrow,,FALSE
+4,,Light Arrow,,FALSE
+5,,Fairy Ocarina,,FALSE
+6,,Bomb,,FALSE
+7,,Bombchu,,FALSE
+8,,Deku Stick,,FALSE
+9,,Deku Nut,,FALSE
+10,,Magic Bean,,FALSE
+11,,Longshot,Acts like Pictobox,FALSE
+12,,Powder Keg,,FALSE
+13,,Pictograph Box,,FALSE
+14,,Lens of Truth,,FALSE
+15,,Hookshot,,FALSE
+16,,Great Fairy's Sword,,FALSE
+17,,Fairy's Slingshot,Acts like Pictobox,FALSE
+18,,Empty Bottle,,FALSE
+19,,Red Potion,,FALSE
+20,,Green Potion,,FALSE
+21,,Blue Potion,,FALSE
+22,,Fairy,,FALSE
+23,,Deku Princess,,FALSE
+24,,Milk,,FALSE
+25,,Milk (1/2),,FALSE
+26,,Fish,,FALSE
+27,,Bug,,FALSE
+28,,Blue Fire,Acts like Bug,FALSE
+29,,Poe,,FALSE
+30,,Big Poe,,FALSE
+31,,Spring Water,,FALSE
+32,,Hot Spring Water,,FALSE
+33,,Zora Egg,,FALSE
+34,,Gold Dust,,FALSE
+35,,Magical Mushroom,,FALSE
+36,,Obaba's Drink,Acts like Poe,FALSE
+37,,Obaba's Drink,Acts like Poe,FALSE
+38,,Sea Horse,,FALSE
+39,,Chateau Romani,,FALSE
+40,,Hylian Loach,"""This item doesn't seem to work here...""",FALSE
+41,,Obaba's Drink,Acts like Poe,FALSE
+42,,Obaba's Drink,Acts like Poe,FALSE
+43,,Obaba's Drink,Acts like Poe,FALSE
+44,,Obaba's Drink,Acts like Poe,FALSE
+45,,Obaba's Drink,Acts like Poe,FALSE
+46,,Obaba's Drink,Acts like Poe,FALSE
+47,,Obaba's Drink,Acts like Poe,FALSE
+48,,Moon's Tear,,FALSE
+49,,Land Title Deed,,FALSE
+50,,Swamp Title Deed,,FALSE
+51,,Mountain Title Deed,,FALSE
+52,,Ocean Title Deed,,FALSE
+53,,Poacher's Saw,"Holds nothing; ""This item doesn't seem to work here...""",FALSE
+54,,Broken Goron Sword,"Holds nothing; ""This item doesn't seem to work here...""",FALSE
+55,,Prescription,Acts like Pendant of Memories,FALSE
+56,,Eyeball Frog,Acts like Pendant of Memories,FALSE
+57,,Eyedrops,Acts like Pendant of Memories,FALSE
+58,,Room Key,,FALSE
+59,,Special Delivery to Mama,,FALSE
+60,,Moon's Stone,Acts like Pendant of Memories,FALSE
+61,,Moon's Stone,Acts like Pendant of Memories,FALSE
+62,,Moon's Stone,Acts like Pendant of Memories,FALSE
+63,,Moon's Stone,Acts like Pendant of Memories,FALSE
+64,,Moon's Stone,Acts like Pendant of Memories,FALSE
+65,,Moon's Stone,Acts like Pendant of Memories,FALSE
+66,,Moon's Stone,Acts like Pendant of Memories,FALSE
+67,,Moon's Stone,Acts like Pendant of Memories,FALSE
+68,,Letter to Kafei,,FALSE
+69,,Pendant of Memories,,FALSE
+70,,Moon's Stone,Acts like Pendant of Memories,FALSE
+71,,Moon's Stone,Acts like Pendant of Memories,FALSE
+72,,Moon's Stone,Acts like Pendant of Memories,FALSE
+73,,Moon's Stone,Acts like Pendant of Memories,FALSE
+74,,Moon's Stone,Acts like Pendant of Memories,FALSE
+75,,Moon's Stone,Acts like Pendant of Memories,FALSE
+76,,Moon's Stone,Acts like Pendant of Memories,FALSE
+77,,Moon's Stone,Acts like Pendant of Memories,FALSE
+78,,Deku Mask,,FALSE
+79,,Goron Mask,,FALSE
+80,,Zora Mask,,FALSE
+81,,Fierce Deity's Mask,,FALSE
+82,,Mask of Truth,,FALSE
+83,,Kafei's Mask,,FALSE
+84,,All-Night Mask,,FALSE
+85,,Bunny Hood,,FALSE
+86,,Keaton Mask,,FALSE
+87,,Garo's Mask,,FALSE
+88,,Romani's Mask,,FALSE
+89,,Circus Leader's Mask,,FALSE
+90,,Postman's Hat,,FALSE
+91,,Couple's Mask,,FALSE
+92,,Great Fairy's Mask,,FALSE
+93,,Gibdo's Mask,,FALSE
+94,,Don Gero's Mask,,FALSE
+95,,Kamaro's Mask,,FALSE
+96,,Captain's Hat,,FALSE
+97,,Stone Mask,,FALSE
+98,,Bremen Mask,,FALSE
+99,,Blast Mask,,FALSE
+100,,Mask of Scents,,FALSE
+101,,Giant's Mask,,FALSE
+102,,Wind Medallion,Acts like Fire Arrow,FALSE
+103,,Fire Medallion,Acts like Ice Arrow,FALSE
+104,,Ice Medallion,Acts like Light Arrow,FALSE
+105,,Goron Drums,Acts like Ocarina; grayed out on C for all but Goron,FALSE
+106,,Zora Guitar,Acts like Ocarina; grayed out on C for all but Zora,FALSE
+107,,Deku Horn,Acts like Ocarina; grayed out on C for all but Deku,FALSE
+108,,Kokiri Sword,Grayed out on C; Acts like Kokiri Sword,FALSE
+109,,Razor Sword,Grayed out on C; Acts like Razor Sword,FALSE
+110,,Gilded Sword,Grayed out on C; Acts like Gilded Sword,FALSE
+111,,Broken Giant's Knife,Grayed out on C; Acts like Great Fairy's Sword/Double Helix Sword,FALSE
+112,,Hero's Shield,Grayed out on C; Crashes,FALSE
+113,,Mirror Shield,Grayed out on C; Crashes,FALSE
+114,,Mirror Shield,Grayed out on C; Crashes,FALSE
+115,,Quiver [30],Grayed out on C; Crashes,FALSE
+116,,Quiver [40],Crashes,FALSE
+117,,Quiver [50],Crashes,FALSE
+118,,Bomb Bag [20],Crashes,FALSE
+119,,Bomb Bag [30],Grayed out on C; Crashes,FALSE
+120,,Bomb Bag [40],Crashes,FALSE
+121,,Boss Key,Crashes,FALSE
+122,,Boss Key,Crashes,FALSE
+123,,Boss Key,Crashes,FALSE
+124,,Boss Key,Grayed out on C; Link holds invisible Fishing Rod,FALSE
+125,,Odolwa's Remains,Crashes,FALSE
+126,,Goht's Remains,Crashes,FALSE
+127,,Gyorg's Remains,Grayed out on C; Crashes,FALSE
+128,,Twinmold's Remains,Crashes,FALSE
+129,,Sonata of Awakening,Crashes,FALSE
+130,,Goron Lullaby,Crashes,FALSE
+131,,New Wave Bossa Nova,Crashes,FALSE
+132,,Elegy of Emptiness,Grayed out on C; Crashes,FALSE
+133,,Oath to Order,Grayed out on C; Crashes,FALSE
+134,,Nocturne of Shadow,Grayed out on C; Crashes,FALSE
+135,,Song of Time,Grayed out on C; Crashes,FALSE
+136,,Song of Healing,Grayed out on C; Crashes,FALSE
+137,,Epona's Song,Grayed out on C; Crashes,FALSE
+138,,Song of Soaring,Grayed out on C; Crashes,FALSE
+139,,Song of Storms,Grayed out on C; Crashes,FALSE
+140,,Sun's Song,Crashes,FALSE
+141,,Bomber's Notebook,Crashes,FALSE
+142,,Gold Skulltula,Crashes,FALSE
+143,,Heart Piece,Grayed out on C; Crashes,FALSE
+144,,Heart Piece,,FALSE
+145,,Sun's Song,,FALSE
+146,,Song of Time,,FALSE
+147,,Lullaby Intro,,FALSE
+148,,Boss Key,,FALSE
+149,,Compass,,FALSE
+150,,Dungeon Map,,FALSE
+151,,Stray Fairies,,FALSE
+152,,Boss Key,,FALSE
+153,,Boss Key,,FALSE
+154,,Boss Key,,FALSE
+155,,,,FALSE
+156,,,,FALSE
+157,,,,FALSE
+158,,,,FALSE
+159,,,,FALSE
+160,,,,FALSE
+161,,,,FALSE
+162,,,,FALSE
+163,,,,FALSE
+164,,,,FALSE
+165,,,,FALSE
+166,,,,FALSE
+167,,,,FALSE
+168,,,,FALSE
+169,,,,FALSE
+170,,,,FALSE
+171,,,,FALSE
+172,,,,FALSE
+173,,,,FALSE
+174,,,,FALSE
+175,,,,FALSE
+176,,,,FALSE
+177,,,,FALSE
+178,,,,FALSE
+179,,,,FALSE
+180,,,,FALSE
+181,,,,FALSE
+182,,,,FALSE
+183,,,,FALSE
+184,,,,FALSE
+185,,,,FALSE
+186,,,,FALSE
+187,,,,FALSE
+188,,,,FALSE
+189,,,,FALSE
+190,,,,FALSE
+191,,,,FALSE
+192,,,,FALSE
+193,,,,FALSE
+194,,,,FALSE
+195,,,,FALSE
+196,,,,FALSE
+197,,,,FALSE
+198,,,,FALSE
+199,,,,FALSE
+200,,,,FALSE
+201,,,,FALSE
+202,,,,FALSE
+203,,,,FALSE
+204,,,,FALSE
+205,,,,FALSE
+206,,,,FALSE
+207,,,,FALSE
+208,,,,FALSE
+209,,,,FALSE
+210,,,,FALSE
+211,,,,FALSE
+212,,,,FALSE
+213,,,,FALSE
+214,,,,FALSE
+215,,,,FALSE
+216,,,,FALSE
+217,,,,FALSE
+218,,,,FALSE
+219,,,,FALSE
+220,,,,FALSE
+221,,,,FALSE
+222,,,,FALSE
+223,,,,FALSE
+224,,,,FALSE
+225,,,,FALSE
+226,,,,FALSE
+227,,,,FALSE
+228,,,,FALSE
+229,,,,FALSE
+230,,,,FALSE
+231,,,,FALSE
+232,,,,FALSE
+233,,,,FALSE
+234,,,,FALSE
+235,,,,FALSE
+236,,,,FALSE
+237,,,,FALSE
+238,,,,FALSE
+239,,,,FALSE
+240,,,,FALSE
+241,,,,FALSE
+242,,,,FALSE
+243,,,,FALSE
+244,,,,FALSE
+245,,,,FALSE
+246,,,,FALSE
+247,,,,FALSE
+248,,,,FALSE
+249,,,,FALSE
+250,,,,FALSE
+251,,,,FALSE
+252,,,,FALSE
+253,,,,FALSE
+254,,,,FALSE
+255,,,,FALSE
