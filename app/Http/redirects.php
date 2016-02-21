@@ -4,6 +4,10 @@ Route::get('/2pause', function() {
     return redirect('https://www.youtube.com/watch?v=KaDflIPG3f4');
 });
 
+Route::get('/oot3p', function() {
+    return redirect('https://www.youtube.com/watch?v=01J-0suWISk');
+});
+
 Route::get('/ss-dolphin', function() {
     return redirect('/downloads/venick/Skyward%20Sword%20Dolphin.7z');
 });
