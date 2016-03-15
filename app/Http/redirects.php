@@ -15,3 +15,11 @@ Route::get('/ss-dolphin', function() {
 Route::get('/kirby-where-ride', function() {
     return redirect('/downloads/keeta/kirby%20hide%20and%20seek.7z');
 });
+
+Route::get('/ingsadventure', function() {
+	return redirect('/downloads/ringrush/IngsAdventure1.1.zip');
+});
+
+Route::get('/ingsadventure2', function() {
+	return redirect('/downloads/ringrush/Ing\'s%20Adventure%202%3b%20Battle.7z');
+});

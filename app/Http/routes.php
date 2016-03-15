@@ -13,10 +13,14 @@
 
 Route::get('/', ['uses' => 'SplashController@index']);
 
-Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function () {
+Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function() {
     Route::get('/itemlist', ['uses' => 'ItemListController@index']);
 });
 
-Route::get('/1pause', function() {
-    return 'No.';
+Route::group(['namespace' => 'Games', 'prefix' => 'games'], function() {
+	Route::get('/sonic-high-school', ['uses' => 'SonicHighController@index']);
+});
+
+Route::get('/1pause', function()  {
+     return 'No.';
 });
