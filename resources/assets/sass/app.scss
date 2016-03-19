@@ -1,6 +1,7 @@
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 @import "colors";
 @import "errors/404";
+@import "kirby/city-trial";
 
 body {
   background-color: $body-color;

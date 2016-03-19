@@ -24,3 +24,5 @@ Route::group(['namespace' => 'Games', 'prefix' => 'games'], function() {
 Route::get('/1pause', function()  {
      return 'No.';
 });
+
+Route::get('/city-trial', ['uses' => 'Kirby\CityTrialController@index']);
