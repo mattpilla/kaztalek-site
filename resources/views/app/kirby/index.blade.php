@@ -262,6 +262,59 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="trial-container col-xs-12 col-sm-6 col-md-3">
+		<div class="form-group">
+			<div class="checkbox">
+	    		<label for="single-0">
+	      			<input type="checkbox" name="single" id="single-0">
+	      			See Fantasy Meadows
+	    		</label>
+			</div>
+			<div class="checkbox">
+	    		<label for="single-1">
+	      			<input type="checkbox" name="single" id="single-1">
+	      			See Beanstalk Park
+	    		</label>
+			</div>
+			<div class="checkbox">
+	    		<label for="single-2">
+	      			<input type="checkbox" name="single" id="single-2">
+	      			See Celestial Valley
+	    		</label>
+			</div>
+			<div class="checkbox">
+	    		<label for="single-3">
+	      			<input type="checkbox" name="single" id="single-3">
+	      			See Sky Sands
+	    		</label>
+			</div>
+			<div class="checkbox">
+	    		<label for="single-4">
+	      			<input type="checkbox" name="single" id="single-4">
+	      			See Frozen Hillside
+	    		</label>
+			</div>
+			<div class="checkbox">
+	    		<label for="single-5">
+	      			<input type="checkbox" name="single" id="single-5">
+	      			See Magma Flows
+	    		</label>
+			</div>
+			<div class="checkbox">
+	    		<label for="single-6">
+	      			<input type="checkbox" name="single" id="single-6">
+	      			See Machine Passage
+	    		</label>
+			</div>
+			<div class="checkbox">
+	    		<label for="single-7">
+	      			<input type="checkbox" name="single" id="single-7">
+	      			See Checker Knights
+	    		</label>
+			</div>
+		</div>
+	</div>
 </div>
 @endsection
 
