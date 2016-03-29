@@ -1,6 +1,9 @@
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 @import "colors";
+@import "mixins";
 @import "errors/404";
+@import "games/games";
+@import "games/dungeon";
 @import "kirby/city-trial";
 
 body {
@@ -16,6 +19,33 @@ a {
   }
 }
 
-th {
-  color: #fff;
+.primary {
+	color: $primary-color;
+} .primary-light {
+	color: $primary-light;
+} .primary-dark {
+	color: $primary-dark;
+}
+
+.btn-custom-primary {
+    color: $text-color;
+    background-color: $primary-light;
+    &:hover {
+        color: $text-color;
+        background-color: $primary-color;
+    }
+    &:active {
+        background-color: $primary-dark;
+    }
+    &:focus {
+        color: $text-color;
+    }
+}
+
+.btn-primary-ghost {
+	@include ghost($primary-color, $text-color);
+} .btn-light-ghost {
+    @include ghost($primary-light, $text-color);
+} .btn-dark-ghost {
+    @include ghost($primary-dark, $text-color);
 }

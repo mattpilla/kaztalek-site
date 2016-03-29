@@ -1,0 +1,36 @@
+@mixin banner() {
+    width: 100%;
+    height: 15vh;
+    background-position: right center;
+    background-size: cover;
+    margin-bottom: 20px;
+    z-index: -1;
+    position: relative;
+    border-bottom: 2px solid $primary-dark;
+
+    h2 {
+        position: absolute;
+        color: $text-color;
+        text-shadow: 0px 0px 5px $primary-color, 0px 0px 10px $primary-color, 0px 0px 15px $primary-color;
+        bottom: 0;
+    }
+}
+
+@mixin ghost($outline, $background) {
+    border: 1px solid $outline;
+    border-radius: 4px;
+    background: transparent;
+    color: $outline;
+    -webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+    -moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+    -ms-transition: background .2s ease-in-out, border .2s ease-in-out;
+    -o-transition: background .2s ease-in-out, border .2s ease-in-out;
+    transition: background .2s ease-in-out, border .2s ease-in-out;
+    &:hover {
+        color: $background;
+        background-color: $outline;
+    }
+    &:active {
+        background-color: $outline;
+    }
+}

@@ -18,6 +18,9 @@ Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function() {
 });
 
 Route::group(['namespace' => 'Games', 'prefix' => 'games'], function() {
+	Route::get('/dungeon', ['uses' => 'DungeonController@index']);
+	Route::get('/dungeon/download', ['uses' => 'DungeonController@download']);
+
 	Route::get('/sonic-high-school', ['uses' => 'SonicHighController@index']);
 });
 
