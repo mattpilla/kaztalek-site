@@ -315,6 +315,16 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="trial-container col-xs-12 col-sm-6 col-md-3">
+		<div class="form-group">
+			<strong>Notes:</strong><br>
+			<em>DR1:</em> Formula 17, Warp 26<br>
+			<em>DR2:</em> Wagon 27, Winged 29, Anyone 20<br>
+			<em>DR3:</em> Swerve 28, Bike 31, Anyone 27<br>
+			<em>DR4:</em> 19 anyone, Rex 24, Turbo 33
+		</div>
+	</div>
 </div>
 @endsection
 
