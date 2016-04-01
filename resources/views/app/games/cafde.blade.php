@@ -14,7 +14,7 @@
 			<a href="/games/cafde/download" class="btn btn-lg btn-custom-primary pull-right">Download</a>
 			<h3 class="primary-light">Cafde's Quest for Satisfaction</h3>
     		<p>
-    			Dunky dunky, what's in the trunky? Not satisfaction, that's for sure! <strong>Cafde's Quest</strong> answers the burning question: <em>When life gives you sugar cubes, what do you do?</em> The answer? That's up to player interpretation. Regardless, help Cafde grab his trusty <span id="special-text">ANIME PRO</span> mug and keep his coffee untainted for as long as possible. There is no winning in this cruel world.
+    			Dunky dunky, what's in the trunky? Not satisfaction, that's for sure! <strong>Cafde's Quest</strong> answers the burning question: <em>When life gives you sugar cubes, what do you do?</em> The answer? That's up to player interpretation. Regardless, help Cafde grab his trusty <span id="special-text">ANIME PRO</span> mug and keep his coffee untainted for as long as possible. That's right, we put your brand in their hand! There is no winning in this cruel world.
     		</p>
     		<p>
     			Move around with the arrow keys and levitate with the space bar.
