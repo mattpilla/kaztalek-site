@@ -1,0 +1,11 @@
+#cafde-banner {
+	background-image: url("/images/games/cafde/screen1.png");
+    @include banner();
+}
+
+#special-text {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
+	color: #f0f;
+	font-weight: bold;
+}
