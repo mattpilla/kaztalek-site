@@ -21,11 +21,12 @@ Route::group(['namespace' => 'Games', 'prefix' => 'games'], function() {
 	Route::get('/dungeon', ['uses' => 'DungeonController@index']);
 	Route::get('/dungeon/download', ['uses' => 'DungeonController@download']);
 
-	Route::get('/sonic-high-school', ['uses' => 'SonicHighController@index']);
+	Route::get('/sonichighschool', ['uses' => 'SonicHighController@index']);
+	Route::get('/sonichighschool/download', ['uses' => 'SonicHighController@download']);
 });
 
 Route::get('/1pause', function()  {
      return 'No.';
 });
 
-Route::get('/city-trial', ['uses' => 'Kirby\CityTrialController@index']);
+Route::get('/citytrial', ['uses' => 'Kirby\CityTrialController@index']);

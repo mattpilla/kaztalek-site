@@ -23,3 +23,7 @@ Route::get('/ingsadventure', function() {
 Route::get('/ingsadventure2', function() {
 	return redirect('/downloads/ringrush/Ing\'s%20Adventure%202%3b%20Battle.7z');
 });
+
+Route::get('/city-trial', function() {
+	return redirect('/citytrial');
+});
