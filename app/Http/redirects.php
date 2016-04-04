@@ -4,6 +4,10 @@ Route::get('/2pause', function() {
     return redirect('https://www.youtube.com/watch?v=KaDflIPG3f4');
 });
 
+Route::get('/oddities', function() {
+	return redirect('https://www.youtube.com/playlist?list=PLhidzeZ496C-x51lQ9Uf-F0UKLEJIyIQN');
+});
+
 Route::get('/oot3p', function() {
     return redirect('https://www.youtube.com/watch?v=01J-0suWISk');
 });
