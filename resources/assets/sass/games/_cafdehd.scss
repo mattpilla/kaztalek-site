@@ -1,0 +1,16 @@
+#cafdehd-banner {
+	background-image: url("/images/games/cafdehd/screen1.png");
+    @include banner();
+}
+
+#cafdehd-end {
+	width: 640px;
+	height: 480px;
+}
+
+.hd {
+	color: #0f7;
+	vertical-align: super;
+	font-style: italic;
+	font-size: 0.8em;
+}
