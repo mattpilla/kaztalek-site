@@ -6,24 +6,26 @@
 @import "kirby/city-trial";
 
 body {
-  background-color: $body-color;
-  color: $text-color;
+    background-color: $body-color;
+    color: $text-color;
 }
 
 a {
-  color: $link-color;
-  &:hover {
-    color: $link-hover-color;
-    text-decoration: none;
-  }
+    color: $link-color;
+    &:hover {
+        color: $link-hover-color;
+        text-decoration: none;
+    }
 }
 
 .primary {
-	color: $primary-color;
+    color: $primary-color;
 } .primary-light {
 	color: $primary-light;
 } .primary-dark {
 	color: $primary-dark;
+} .accent {
+    color: $accent;
 }
 
 .btn-custom-primary {
@@ -47,4 +49,6 @@ a {
     @include ghost($primary-light, $text-color);
 } .btn-dark-ghost {
     @include ghost($primary-dark, $text-color);
+} .btn-accent-ghost {
+    @include ghost($accent, $text-color);
 }
