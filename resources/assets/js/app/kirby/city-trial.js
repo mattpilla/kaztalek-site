@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('.checkbox input').change(function(){
-		var c = this.checked ? '#555' : '#ddd'
+		var c = this.checked ? '#555' : '#c7c7c7'
 	    $(this).parent().css('color', c);
 	});
 
