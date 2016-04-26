@@ -357,6 +357,5 @@
 @endsection
 
 @section('scripts')
-	@parent
     <script src='/js/app/kirby/city-trial.js'></script>
 @endsection
