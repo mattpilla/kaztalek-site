@@ -15,6 +15,7 @@ Route::get('/', ['uses' => 'SplashController@index']);
 
 Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function() {
     Route::get('/itemlist', ['uses' => 'ItemListController@index']);
+    Route::get('/scenes', ['uses' => 'GoogleDocController@scene']);
 });
 
 Route::group(['namespace' => 'Games', 'prefix' => 'games'], function() {

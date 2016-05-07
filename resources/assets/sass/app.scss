@@ -3,6 +3,7 @@
 @import "mixins";
 @import "errors/404";
 @import "games/games";
+@import "mm/mm";
 @import "kirby/city-trial";
 
 body {
@@ -28,9 +29,9 @@ input {
 .primary {
     color: $primary-color;
 } .primary-light {
-	color: $primary-light;
+    color: $primary-light;
 } .primary-dark {
-	color: $primary-dark;
+    color: $primary-dark;
 } .accent {
     color: $accent;
 }
@@ -51,7 +52,7 @@ input {
 }
 
 .btn-primary-ghost {
-	@include ghost($primary-color, $text-color);
+    @include ghost($primary-color, $text-color);
 } .btn-light-ghost {
     @include ghost($primary-light, $text-color);
 } .btn-dark-ghost {

@@ -7,7 +7,6 @@
 
         <title>@yield('title')</title>
         <link rel="stylesheet" href="/css/app.css" media="screen,projection" />
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
         @yield('styles')
     </head>
 
