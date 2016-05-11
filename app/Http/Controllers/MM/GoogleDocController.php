@@ -9,6 +9,11 @@ use App\Http\Controllers\Controller;
 
 class GoogleDocController extends Controller
 {
+    public function action()
+    {
+        return view('app.mm.actions');
+    }
+
     public function scene()
     {
         return view('app.mm.scenes');
