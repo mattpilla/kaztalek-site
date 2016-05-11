@@ -1,5 +1,6 @@
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 @import "colors";
+@import "nav";
 @import "mixins";
 @import "errors/404";
 @import "games/games";
@@ -27,7 +28,7 @@ input {
 }
 
 .primary {
-    color: $primary-color;
+    color: $primary;
 } .primary-light {
     color: $primary-light;
 } .primary-dark {
@@ -36,12 +37,22 @@ input {
     color: $accent;
 }
 
+.bg-primary {
+    background-color: $primary;
+} .bg-primary-light {
+    background-color: $primary-light;
+} .bg-primary-dark {
+    background-color: $primary-dark;
+} .bg-accent {
+    background-color: $accent;
+}
+
 .btn-custom-primary {
     color: $text-color;
     background-color: $primary-light;
     &:hover {
         color: $text-color;
-        background-color: $primary-color;
+        background-color: $primary;
     }
     &:active {
         background-color: $primary-dark;
@@ -52,7 +63,7 @@ input {
 }
 
 .btn-primary-ghost {
-    @include ghost($primary-color, $text-color);
+    @include ghost($primary, $text-color);
 } .btn-light-ghost {
     @include ghost($primary-light, $text-color);
 } .btn-dark-ghost {

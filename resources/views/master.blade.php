@@ -12,7 +12,7 @@
 
     <body>
         <header>
-            {{-- @include('nav') --}}
+            @include('nav')
         </header>
         <div class="container-fluid">
             @yield('content')

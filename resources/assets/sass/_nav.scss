@@ -1,0 +1,51 @@
+.navbar {
+    border-bottom: 1px solid $accent;
+    background-color: #000;
+    z-index: 5;
+}
+
+#nav-links {
+    .active > a {
+        background-color: $primary-light;
+    }
+    li > a {
+        color: #fff;
+        &:hover {
+            background-color: $primary;
+        }
+    }
+    .open > a {
+        background-color: $primary-dark;
+    }
+}
+
+.dropdown-menu {
+    background-color: $primary-dark;
+    li > a:hover {
+        background-color: $primary-dark;
+    }
+}
+
+.navbar-brand > img {
+    height: 50px;
+}
+
+.navbar-collapse {
+    border-top-width: 0px;
+}
+
+#nav-toggle {
+    border: 0px;
+    &:active, &:focus {
+        background: transparent;
+    }
+    &:hover {
+        background: transparent;
+        .icon-bar {
+           background-color: $accent;
+        }
+    }
+    .icon-bar {
+        background-color: #fff;
+    }
+}
