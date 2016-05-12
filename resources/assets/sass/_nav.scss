@@ -1,3 +1,7 @@
+#fake-nav {
+    height: 50px;
+}
+
 .navbar {
     border-bottom: 1px solid $accent;
     background-color: #000;
@@ -5,37 +9,36 @@
 }
 
 #nav-links {
-    .active > a {
-        background-color: $primary-light;
-    }
     li > a {
         color: #fff;
+        background-color: #000;
         &:hover {
-            background-color: $primary;
+            color: $primary;
         }
-    }
-    .open > a {
-        background-color: $primary-dark;
     }
 }
 
 .dropdown-menu {
-    background-color: $primary-dark;
+    background-color: #000;
+    margin-top: -1px;
+    border-left: 1px solid $accent;
+    border-right: 1px solid $accent;
+    border-bottom: 1px solid $accent;
     li > a:hover {
-        background-color: $primary-dark;
+        color: $primary;
     }
 }
 
-.navbar-brand > img {
-    height: 50px;
+.navbar-brand {
+    padding-top: 6px;
 }
 
 .navbar-collapse {
-    border-top-width: 0px;
+    border-top-width: 0;
 }
 
 #nav-toggle {
-    border: 0px;
+    border: 0;
     &:active, &:focus {
         background: transparent;
     }
