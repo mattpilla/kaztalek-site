@@ -60,10 +60,6 @@
 
 /* Medium devices */
 @media (min-width: $screen-sm-min) {
-    .dropdown:hover .dropdown-menu {
-        display: block;
-    }
-
     .dropdown-menu {
         text-align: right;
     }
