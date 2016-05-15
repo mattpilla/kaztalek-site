@@ -4,38 +4,38 @@
 @import "games/sonichighschool";
 
 .screen-holder {
-	background-color: $body-light;
-	padding: 10px;
-	margin-bottom: 10px;
-	display: inline-block;
+    background-color: $body-light;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
     max-width: 100%;
 
-	img {
-		border-radius: 4px;
-		border: 1px solid $primary-dark;
+    img {
+        border-radius: 4px;
+        border: 1px solid $primary-dark;
         width: 100%;
-	}
+    }
 }
 
 .game-info {
-	margin-bottom: 10px;
+    margin-bottom: 10px;
 
-	img {
-		margin-left: 10px;
-		margin-right: 20px;
-		margin-bottom: 10px;
-		border-radius: 8px;
-		height: 180px;
-		width: 180px;
-	}
+    img {
+        margin-left: 10px;
+        margin-right: 20px;
+        margin-bottom: 10px;
+        border-radius: 8px;
+        height: 180px;
+        width: 180px;
+    }
 
-	p {
-		text-indent: 25px;
-	}
+    p {
+        text-indent: 25px;
+    }
 }
 
 .requirements {
-	.require {
-		color: #999;
-	}
+    .require {
+        color: #999;
+    }
 }
