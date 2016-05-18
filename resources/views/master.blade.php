@@ -8,6 +8,8 @@
         <title>@yield('title')</title>
         <link rel="stylesheet" href="/css/app.css" media="screen,projection" />
         @yield('styles')
+        <script defer src="/js/all.js"></script>
+        @yield('scripts')
     </head>
 
     <body>
@@ -17,7 +19,5 @@
         <div class="container-fluid">
             @yield('content')
         </div>
-        <script src="/js/all.js"></script>
-        @yield('scripts')
     </body>
 </html>

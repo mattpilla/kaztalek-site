@@ -83,7 +83,7 @@
                     </label>
                 </div>
                 <div class="checkbox foods">
-                    <label for="foods-3"> 
+                    <label for="foods-3">
                         <input type="checkbox" id="foods-3">
                         2 Tomato
                     </label>
@@ -409,5 +409,5 @@
 @endsection
 
 @section('scripts')
-    <script src="/js/app/kirby/city-trial.js"></script>
+    <script defer src="/js/app/kirby/city-trial.js"></script>
 @endsection
