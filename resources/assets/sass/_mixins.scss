@@ -6,12 +6,12 @@
     margin-bottom: 20px;
     z-index: -1;
     position: relative;
-    border-bottom: 2px solid $primary-dark;
+    border-bottom: 1px solid $primary-dark;
 
     h2 {
         position: absolute;
-        color: $text-color;
-        text-shadow: 0 0 5px $primary, 0 0 10px $primary, 0 0 15px $primary;
+        color: $primary-light;
+        text-shadow: 0 0 5px $body-color, 0 0 10px $body-color, 0 0 15px $body-color;
         bottom: 0;
     }
 }
@@ -26,6 +26,9 @@
     -ms-transition: background .2s ease-in-out, border .2s ease-in-out;
     -o-transition: background .2s ease-in-out, border .2s ease-in-out;
     transition: background .2s ease-in-out, border .2s ease-in-out;
+    &:focus {
+        color: $outline;
+    }
     &:hover {
         color: $background;
         background-color: $outline;
