@@ -17,9 +17,9 @@ class CafdeHDController extends Controller
 
     public function download()
     {
-    	$path = storage_path('app/games/CafdeHD.7z');
-    	$filename = 'CafdeHD.7z';
-    	$headers = ['Content-Type: application/x-7z-compressed'];
-    	return Response::download($path, $filename, $headers);
+        $path = storage_path('app/games/CafdeHD.7z');
+        $filename = 'CafdeHD.7z';
+        $headers = ['Content-Type: application/x-7z-compressed'];
+        return Response::download($path, $filename, $headers);
     }
 }

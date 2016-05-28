@@ -18,9 +18,9 @@ class DungeonController extends Controller
 
     public function download()
     {
-    	$path = storage_path('app/games/Dungeon1.2.7z');
-    	$filename = 'Dungeon1.2.7z';
-    	$headers = ['Content-Type: application/x-7z-compressed'];
-    	return Response::download($path, $filename, $headers);
+        $path = storage_path('app/games/Dungeon1.2.7z');
+        $filename = 'Dungeon1.2.7z';
+        $headers = ['Content-Type: application/x-7z-compressed'];
+        return Response::download($path, $filename, $headers);
     }
 }

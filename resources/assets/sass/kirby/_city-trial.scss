@@ -1,21 +1,21 @@
 .trial-container {
-	background-color: $body-light;
-	margin-top: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	border-radius: 4px;
+    background-color: $body-light;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 4px;
 
-	.visibility {
-		padding: 3px;
-		line-height: 7px;
-		float: right;
-	}
+    .visibility {
+        padding: 3px;
+        line-height: 7px;
+        float: right;
+    }
 
-	&:after {
-	    content: '';
-	    display: block;
-	    clear: both;
-	}
+    &:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
 }

@@ -5,7 +5,7 @@ Route::get('/2pause', function() {
 });
 
 Route::get('/oddities', function() {
-	return redirect('https://www.youtube.com/playlist?list=PLhidzeZ496C-x51lQ9Uf-F0UKLEJIyIQN');
+    return redirect('https://www.youtube.com/playlist?list=PLhidzeZ496C-x51lQ9Uf-F0UKLEJIyIQN');
 });
 
 Route::get('/oot3p', function() {
@@ -21,13 +21,13 @@ Route::get('/kirby-where-ride', function() {
 });
 
 Route::get('/ingsadventure', function() {
-	return redirect('/downloads/ringrush/IngsAdventure1.1.zip');
+    return redirect('/downloads/ringrush/IngsAdventure1.1.zip');
 });
 
 Route::get('/ingsadventure2', function() {
-	return redirect('/downloads/ringrush/Ing\'s%20Adventure%202%3b%20Battle.7z');
+    return redirect('/downloads/ringrush/Ing\'s%20Adventure%202%3b%20Battle.7z');
 });
 
 Route::get('/city-trial', function() {
-	return redirect('/citytrial');
+    return redirect('/citytrial');
 });

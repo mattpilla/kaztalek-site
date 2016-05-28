@@ -17,9 +17,9 @@ class SonicHighController extends Controller
 
     public function download()
     {
-    	$path = storage_path('app/games/SonicHighSchool.7z');
-    	$filename = 'Sonic High School.7z';
-    	$headers = ['Content-Type: application/x-7z-compressed'];
-    	return Response::download($path, $filename, $headers);
+        $path = storage_path('app/games/SonicHighSchool.7z');
+        $filename = 'Sonic High School.7z';
+        $headers = ['Content-Type: application/x-7z-compressed'];
+        return Response::download($path, $filename, $headers);
     }
 }
