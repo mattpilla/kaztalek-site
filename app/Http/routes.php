@@ -17,6 +17,8 @@ Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function() {
 * My Games
 */
 Route::group(['namespace' => 'Games', 'prefix' => 'games'], function() {
+    Route::get('/', ['uses' => 'GameController@index']);
+
     Route::get('/cafde', ['uses' => 'CafdeController@index']);
     Route::get('/cafde/download', ['uses' => 'CafdeController@download']);
 
