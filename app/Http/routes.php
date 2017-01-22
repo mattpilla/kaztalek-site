@@ -5,7 +5,7 @@ Route::get('/', ['uses' => 'SplashController@index']);
 /**
 * Majora's Mask
 */
-Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function() {
+Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function () {
     Route::get('/itemlist', ['uses' => 'ItemListController@index']);
 
     // Google Doc Pages
@@ -16,7 +16,7 @@ Route::group(['namespace' => 'MM', 'prefix' => 'mm'], function() {
 /**
 * My Games
 */
-Route::group(['namespace' => 'Games', 'prefix' => 'games'], function() {
+Route::group(['namespace' => 'Games', 'prefix' => 'games'], function () {
     Route::get('/', ['uses' => 'GameController@index']);
 
     Route::get('/cafde', ['uses' => 'CafdeController@index']);
@@ -36,7 +36,7 @@ Route::group(['namespace' => 'Games', 'prefix' => 'games'], function() {
 * Misc
 */
 Route::get('/citytrial', ['uses' => 'Kirby\CityTrialController@index']);
-
-Route::get('/1pause', function()  {
-     return 'No.';
+Route::get('/unlisted', ['uses' => 'Misc\UnlistedController@index']);
+Route::get('/1pause', function () {
+    return 'No.';
 });
