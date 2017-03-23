@@ -12,6 +12,10 @@ Route::get('/oot3p', function() {
     return redirect('https://www.youtube.com/watch?v=01J-0suWISk');
 });
 
+Route::get('/rbo', function() {
+    return redirect('https://www.youtube.com/watch?v=KtDpKjv93DQ');
+});
+
 Route::get('/ss-dolphin', function() {
     return redirect('/downloads/venick/Skyward%20Sword%20Dolphin.7z');
 });
