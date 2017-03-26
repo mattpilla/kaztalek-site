@@ -3,5 +3,6 @@
 @section('title', 'Kaztalek')
 
 @section('content')
-    <h1>Nothing to see here (yet).</h1>
+    nothing to see here (ever)<br>
+    <script src="https://en.lichess.org/tv/embed?theme=green&bg=dark"></script>
 @endsection
