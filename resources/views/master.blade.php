@@ -35,7 +35,7 @@ M+:             MZ777ZMM
         <meta name="twitter:card" content="summary">
         <meta name="twitter:title" content="kaztalek.com">
         <meta name="twitter:description" content="the shittiest website on this earth">
-        <meta name="twitter:image" content="https://kaztalek.com/public/images/preview120.png">
+        <meta name="twitter:image" content="https://kaztalek.com/images/preview120.png">
 
         <link rel="stylesheet" href="/css/app.css" media="screen,projection" />
         @yield('styles')
