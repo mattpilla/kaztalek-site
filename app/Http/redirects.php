@@ -35,3 +35,7 @@ Route::get('/ingsadventure2', function() {
 Route::get('/city-trial', function() {
     return redirect('/citytrial');
 });
+
+Route::get('/dk64abc', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=0');
+});
