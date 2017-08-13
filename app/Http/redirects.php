@@ -37,5 +37,5 @@ Route::get('/city-trial', function() {
 });
 
 Route::get('/dk64abc', function() {
-    return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=0');
+    return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=1184089361');
 });
