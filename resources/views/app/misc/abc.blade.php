@@ -47,23 +47,23 @@ hr {
         <tbody>
             <tr>
                 <td><a target="_blank" href="/abc/dk64">Donkey Kong 64</a></td>
-                <td class="td-pad first-td"><input value="https://kaztalek.com/abc/dk64"></td>
+                <td class="td-pad first-td"><input value="https://kaztalek.com/abc/dk64" disabled></td>
             </tr>
             <tr>
                 <td><a target="_blank" href="/abc/sadx">Sonic Adventure (DX)</a></td>
-                <td class="td-pad"><input value="https://kaztalek.com/abc/sadx"></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/sadx" disabled></td>
             </tr>
             <tr>
                 <td><a target="_blank" href="/abc/sa2b">Sonic Adventure 2 (Battle)</a></td>
-                <td class="td-pad"><input value="https://kaztalek.com/abc/sa2b"></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/sa2b" disabled></td>
             </tr>
             <tr>
                 <td><a target="_blank" href="/abc/sm64">Super Mario 64</a></td>
-                <td class="td-pad"><input value="https://kaztalek.com/abc/sm64"></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/sm64" disabled></td>
             </tr>
             <tr>
                 <td><a target="_blank" href="/abc/sms">Super Mario Sunshine</a></td>
-                <td class="td-pad last-td"><input value="https://kaztalek.com/abc/sms"></td>
+                <td class="td-pad last-td"><input value="https://kaztalek.com/abc/sms" disabled></td>
             </tr>
         </tbody>
     </table>
