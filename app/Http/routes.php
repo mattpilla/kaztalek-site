@@ -37,7 +37,8 @@ Route::group(['namespace' => 'Games', 'prefix' => 'games'], function () {
 */
 Route::get('/abc', ['uses' => 'Misc\ABCController@index']);
 Route::get('/citytrial', ['uses' => 'Kirby\CityTrialController@index']);
-Route::get('/unlisted', ['uses' => 'Misc\UnlistedController@index']);
+// unlisted page is broken. comment out until fixed
+// Route::get('/unlisted', ['uses' => 'Misc\UnlistedController@index']);
 Route::get('/1pause', function () {
     return 'No.';
 });
