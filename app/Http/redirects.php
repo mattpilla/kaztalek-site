@@ -36,6 +36,29 @@ Route::get('/city-trial', function() {
     return redirect('/citytrial');
 });
 
+/*
+ * ABC
+ */
 Route::get('/dk64abc', function() {
     return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=1184089361');
+});
+
+Route::get('/abc/dk64', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=1184089361');
+});
+
+Route::get('/abc/sadx', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/1uRURAIl5ToN4uIg3sbCWQf7_3UsbXeeEodH30dQlWbo/edit#gid=1381357695');
+});
+
+Route::get('/abc/sa2b', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/1uRURAIl5ToN4uIg3sbCWQf7_3UsbXeeEodH30dQlWbo/edit#gid=0');
+});
+
+Route::get('/abc/sm64', function() {
+    return redirect('https://docs.google.com/document/d/1ypRVVRyf4x-v8GqCSmKYnicrfKSIjao3Y1ZVl52RIyM/edit');
+});
+
+Route::get('/abc/sms', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/1j5OVfqqp97LhKHJja96h2SX5ZoFjaHiE7nvXgAYauMI/edit#gid=1593926981');
 });

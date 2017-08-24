@@ -35,6 +35,7 @@ Route::group(['namespace' => 'Games', 'prefix' => 'games'], function () {
 /**
 * Misc
 */
+Route::get('/abc', ['uses' => 'Misc\ABCController@index']);
 Route::get('/citytrial', ['uses' => 'Kirby\CityTrialController@index']);
 Route::get('/unlisted', ['uses' => 'Misc\UnlistedController@index']);
 Route::get('/1pause', function () {
