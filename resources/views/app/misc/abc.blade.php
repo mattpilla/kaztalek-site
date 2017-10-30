@@ -16,13 +16,13 @@ hr {
     padding-left: 20px;
 }
 
-#abc-table .first-td > input {
+#abc-table tr:first-child input {
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
     border-top-width: 1px;
 }
 
-#abc-table .last-td > input {
+#abc-table tr:last-child input {
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
 }
@@ -47,7 +47,7 @@ hr {
         <tbody>
             <tr>
                 <td><a target="_blank" href="/abc/dk64">Donkey Kong 64</a></td>
-                <td class="td-pad first-td"><input value="https://kaztalek.com/abc/dk64" disabled></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/dk64" disabled></td>
             </tr>
             <tr>
                 <td><a target="_blank" href="/abc/sadx">Sonic Adventure (DX)</a></td>
@@ -63,7 +63,15 @@ hr {
             </tr>
             <tr>
                 <td><a target="_blank" href="/abc/sms">Super Mario Sunshine</a></td>
-                <td class="td-pad last-td"><input value="https://kaztalek.com/abc/sms" disabled></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/sms" disabled></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" href="/abc/smg">Super Mario Galaxy</a></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/smg" disabled></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" href="/abc/smg2">Super Mario Galaxy 2</a></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/smg2" disabled></td>
             </tr>
         </tbody>
     </table>

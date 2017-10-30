@@ -62,3 +62,11 @@ Route::get('/abc/sm64', function() {
 Route::get('/abc/sms', function() {
     return redirect('https://docs.google.com/spreadsheets/d/1j5OVfqqp97LhKHJja96h2SX5ZoFjaHiE7nvXgAYauMI/edit#gid=1593926981');
 });
+
+Route::get('/abc/smg', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/10GjH7cXf0cn7uMFX6IGB_G3JiDuvqMxZirVb4JwKRHA/edit#gid=0');
+});
+
+Route::get('/abc/smg2', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/1eNmk8SPNcwq3l3ocL3FeLuDd_J5p6rgjNdM1jsM_UCA/edit#gid=0');
+});
