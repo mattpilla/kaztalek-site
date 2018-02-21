@@ -4,6 +4,10 @@ Route::get('/2pause', function() {
     return redirect('https://www.youtube.com/watch?v=KaDflIPG3f4');
 });
 
+Route::get('/afrnh', function() {
+    return redirect('https://www.youtube.com/watch?v=KkMe1VUJUEc');
+});
+
 Route::get('/oddities', function() {
     return redirect('https://www.youtube.com/playlist?list=PLhidzeZ496C-x51lQ9Uf-F0UKLEJIyIQN');
 });
@@ -45,6 +49,10 @@ Route::get('/dk64abc', function() {
 
 Route::get('/abc/dk64', function() {
     return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=1184089361');
+});
+
+Route::get('/abc/rby', function() {
+    return redirect('https://sites.google.com/site/thezzazzglitch/home/a-button-challenge-movies');
 });
 
 Route::get('/abc/sadx', function() {
