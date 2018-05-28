@@ -63,12 +63,20 @@ Route::get('/abc/sa2b', function() {
     return redirect('https://docs.google.com/spreadsheets/d/1uRURAIl5ToN4uIg3sbCWQf7_3UsbXeeEodH30dQlWbo/edit#gid=0');
 });
 
+Route::get('/abc/shadow', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/143s1dqBeCZNbhOwEer28qXfs0pLwhKIwj9B-DeT6t4I/edit#gid=0');
+});
+
 Route::get('/abc/smw', function() {
     return redirect('https://docs.google.com/spreadsheets/d/1TqnOs66T2E58m3a36FoRvRpna6-sPlWgQr31nEeGafY/edit#gid=0');
 });
 
 Route::get('/abc/sm64', function() {
     return redirect('https://docs.google.com/document/d/1ypRVVRyf4x-v8GqCSmKYnicrfKSIjao3Y1ZVl52RIyM/edit');
+});
+
+Route::get('/abc/sm64ds', function() {
+    return redirect('https://pastebin.com/aKSppyne');
 });
 
 Route::get('/abc/sms', function() {

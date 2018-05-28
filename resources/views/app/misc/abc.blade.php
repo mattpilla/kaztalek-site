@@ -62,12 +62,20 @@ hr {
                 <td class="td-pad"><input value="https://kaztalek.com/abc/sa2b" disabled></td>
             </tr>
             <tr>
+                <td><a target="_blank" href="/abc/shadow">Shadow the Hedgehog</a></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/shadow" disabled></td>
+            </tr>
+            <tr>
                 <td><a target="_blank" href="/abc/smw">Super Mario World</a></td>
                 <td class="td-pad"><input value="https://kaztalek.com/abc/smw" disabled></td>
             </tr>
             <tr>
                 <td><a target="_blank" href="/abc/sm64">Super Mario 64</a></td>
                 <td class="td-pad"><input value="https://kaztalek.com/abc/sm64" disabled></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" href="/abc/sm64ds">Super Mario 64 DS</a></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/sm64ds" disabled></td>
             </tr>
             <tr>
                 <td><a target="_blank" href="/abc/sms">Super Mario Sunshine</a></td>
