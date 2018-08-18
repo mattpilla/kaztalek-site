@@ -47,6 +47,10 @@ Route::get('/dk64abc', function() {
     return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=1184089361');
 });
 
+Route::get('/abc/bk', function() {
+    return redirect('https://docs.google.com/document/d/1XQxm5Rk8H02w1M318kM-cu6fNkFx9O0xrcJuz6OpEUQ/edit');
+});
+
 Route::get('/abc/dk64', function() {
     return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=1184089361');
 });

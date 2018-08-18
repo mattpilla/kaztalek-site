@@ -46,6 +46,10 @@ hr {
     <table id="abc-table">
         <tbody>
             <tr>
+                <td><a target="_blank" href="/abc/bk">Banjo Kazooie</a></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/bk" disabled></td>
+            </tr>
+            <tr>
                 <td><a target="_blank" href="/abc/dk64">Donkey Kong 64</a></td>
                 <td class="td-pad"><input value="https://kaztalek.com/abc/dk64" disabled></td>
             </tr>
