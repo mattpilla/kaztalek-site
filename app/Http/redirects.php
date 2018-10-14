@@ -55,6 +55,10 @@ Route::get('/abc/dk64', function() {
     return redirect('https://docs.google.com/spreadsheets/d/1Q3-CPZ77oZQnznpV9VRAeOxAHTiTTF7_-lJKB0-w5ts/edit#gid=1184089361');
 });
 
+Route::get('/abc/mm', function() {
+    return redirect('https://docs.google.com/spreadsheets/d/1gLjhpAfmfqF95YgfCe0wq2Ri5N4Au-lhR1lk1SKKtsQ/edit#gid=897413718');
+});
+
 Route::get('/abc/rby', function() {
     return redirect('https://sites.google.com/site/thezzazzglitch/home/a-button-challenge-movies');
 });

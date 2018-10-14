@@ -54,6 +54,10 @@ hr {
                 <td class="td-pad"><input value="https://kaztalek.com/abc/dk64" disabled></td>
             </tr>
             <tr>
+                <td><a target="_blank" href="/abc/mm">Majora's Mask</a></td>
+                <td class="td-pad"><input value="https://kaztalek.com/abc/mm" disabled></td>
+            </tr>
+            <tr>
                 <td><a target="_blank" href="/abc/rby">Pokémon Red/Blue/Yellow</a></td>
                 <td class="td-pad"><input value="https://kaztalek.com/abc/rby" disabled></td>
             </tr>
