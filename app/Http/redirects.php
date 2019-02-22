@@ -1,5 +1,9 @@
 <?php
 
+Route::get('/feb21', function() {
+    return redirect('https://www.youtube.com/playlist?list=PLhidzeZ496C_IEY_YdzxTSOtvd_mfZPPp');
+});
+
 Route::get('/2pause', function() {
     return redirect('https://www.youtube.com/watch?v=KaDflIPG3f4');
 });
@@ -18,6 +22,14 @@ Route::get('/oot3p', function() {
 
 Route::get('/rbo', function() {
     return redirect('https://www.youtube.com/watch?v=KtDpKjv93DQ');
+});
+
+Route::get('/pacifist', function() {
+    return redirect('https://www.youtube.com/watch?v=ozuZJNSnv-o');
+});
+
+Route::get('/oot0p', function() {
+    return redirect('https://www.youtube.com/watch?v=XvR3c6absYU');
 });
 
 Route::get('/ss-dolphin', function() {
