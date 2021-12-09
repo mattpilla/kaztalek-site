@@ -60,7 +60,7 @@ Route::get('/dk64abc', function() {
 });
 
 Route::get('/abc/bk', function() {
-    return redirect('https://docs.google.com/document/d/1XQxm5Rk8H02w1M318kM-cu6fNkFx9O0xrcJuz6OpEUQ/edit');
+    return redirect('https://docs.google.com/spreadsheets/d/1BPAnkET4Xgb5CtJlslMMAOPqgAdup5d-5ipOOZ0sRPc/edit?usp=sharing');
 });
 
 Route::get('/abc/dk64', function() {
